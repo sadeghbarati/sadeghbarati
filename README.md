@@ -1,7 +1,4 @@
-<style>
-#readMe {animation: warpPadding 2s 2s ease}
-@keyframes example {to{padding: 3rem;}}
-</style>
+<link href="assets/style.css" rel="stylesheet"></link>
 
 [![sadegh barati](https://github.com/sadeghbarati/sadeghbarati/raw/master/assets/sadegh.svg)](https://sadeghbarati.ir)
 
