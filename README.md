@@ -1,1 +1,1 @@
-![alt text](./assets/sadegh.svg)
+![alt text](/assets/sadegh.svg)
