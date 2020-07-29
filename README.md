@@ -1,1 +1,1 @@
-![alt text](/assets/sadegh.svg)
+![alt text](https://github.com/sadeghbarati/sadeghbarati/assets/sadegh.svg)
