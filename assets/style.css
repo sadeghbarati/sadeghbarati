@@ -1,2 +1,7 @@
 #readMe{animation: warpPadding 2s 2s ease}
 @keyframes example {to{padding: 3rem;}}
+
+[data-color-mode="dark"] .markdown-body img {
+   background-color: #efeeee !important;
+   filter: invert(1) saturate(1.5) grayscale(100%) !important;
+}
