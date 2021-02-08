@@ -2,7 +2,7 @@
 
 [![sadegh barati](https://github.com/sadeghbarati/sadeghbarati/raw/master/assets/sadegh.svg#img-thumbnail)](https://sadeghbarati.ir)
 
-[![Sadeghbarati's github stats](https://github-readme-stats.vercel.app/api?username=sadeghbarati&show_icons=true&hide=issues&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sadeghbarati's github stats](https://github-readme-stats.vercel.app/api?username=sadeghbarati&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeghbarati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
