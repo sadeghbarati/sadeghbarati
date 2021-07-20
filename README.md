@@ -7,7 +7,10 @@
 
 [![Source Karma badge for @sadeghbarati](https://sourcekarma-og.vercel.app/api/sadeghbarati/github)](https://sourcekarma.vercel.app/sadeghbarati)
 
-<h1 style="border-bottom: 0 !important; font-size: 2.5rem !important"> Hi! :wave: ![](https://komarev.com/ghpvc/?username=sadeghbarati&color=brightgreen)</h1>
+<div>
+![](https://komarev.com/ghpvc/?username=sadeghbarati&color=brightgreen)
+</div>
+<h1 style="border-bottom: 0 !important; font-size: 2.5rem !important"> Hi! :wave: </h1>
 
 
 
