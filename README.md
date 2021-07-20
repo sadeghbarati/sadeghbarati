@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeghbarati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Source Karma badge for @sadeghbarati](https://sourcekarma-og.vercel.app/api/sadeghbarati/github)](https://sourcekarma.vercel.app/sadeghbarati)
-![](https://komarev.com/ghpvc/?username=sadeghbarati&color=brightgreen)
-<h1 style="border-bottom: 0 !important; font-size: 2.5rem !important"> Hi! :wave:</h1>
+
+<h1 style="border-bottom: 0 !important; font-size: 2.5rem !important"> Hi! :wave: ![](https://komarev.com/ghpvc/?username=sadeghbarati&color=brightgreen)</h1>
 
 
 
