@@ -7,6 +7,15 @@
         [data-color-mode="dark"] #subName {
             fill: #fff;
         }
+
+       @media (prefers-color-scheme: dark) {
+          #name {
+             fill: #fff !important;
+          }
+          #subName {
+            fill: #fff !important;
+          }
+        }
     </style>
 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="179" y="334" width="1135" height="174">
 <rect x="179" y="334" width="1135" height="174" fill="#C4C4C4"/>
