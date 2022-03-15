@@ -1,4 +1,10 @@
-<link rel="stylesheet" type="text/css" href="assets/style.css" />
+<style>
+mark{
+    color:red;
+}
+</style>
+
+<mark>what is DataBase</mark>
 
 [![sadegh barati](https://github.com/sadeghbarati/sadeghbarati/raw/master/assets/sadegh.svg#img-thumbnail)](https://sadeghbarati.ir)
 
