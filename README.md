@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="/assets/style.css" />
+<link rel="stylesheet" type="text/css" href="assets/style.css" />
 
 [![sadegh barati](https://github.com/sadeghbarati/sadeghbarati/raw/master/assets/sadegh.svg#img-thumbnail)](https://sadeghbarati.ir)
 
