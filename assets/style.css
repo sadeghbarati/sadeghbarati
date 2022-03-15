@@ -1,5 +1,8 @@
 #readMe{animation: warpPadding 2s 2s ease}
-@keyframes example {to{padding: 3rem;}}
+@keyframes warpPadding {to{padding: 3rem;}}
+
+.test{animation: warpPadding 2s 2s ease}
+@keyframes warpPadding {to{padding: 3rem;}}
 
 [data-color-mode="dark"] img[src$='#img-thumbnail'] {
    background-color: #efeeee !important;
