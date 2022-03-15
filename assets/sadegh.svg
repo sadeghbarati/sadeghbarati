@@ -1,14 +1,11 @@
-<svg width="1374" height="712" viewBox="0 0 1374 712" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg id="lul" width="1374" height="712" viewBox="0 0 1374 712" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
-        [data-color-mode="dark"] #name {
-           fill: #fff;
-        }
         
-        [data-color-mode="dark"] #subName {
-            fill: #fff;
-        }
         
         @media (prefers-color-scheme: light) {
+            #lul {
+                background-color: #000
+            }
           #name {
              fill: #000 !important;
           }
@@ -18,6 +15,9 @@
         }
 
        @media (prefers-color-scheme: dark) {
+         #lul {
+                background-color: #fff
+            }
           #name {
              fill: #fff !important;
           }
@@ -26,6 +26,21 @@
           }
         }
         
+        [data-color-mode="dark"] #name {
+           fill: #fff !important;
+        }
+        
+        [data-color-mode="dark"] #subName {
+            fill: #fff !important;
+        }
+        
+        html[data-color-mode="dark"] #name {
+           fill: #fff !important;
+        }
+        
+        html[data-color-mode="dark"] #subName {
+            fill: #fff !important;
+        }
         
     </style>
 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="179" y="334" width="1135" height="174">
