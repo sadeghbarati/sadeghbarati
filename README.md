@@ -6,7 +6,7 @@ mark{
 
 <mark>what is DataBase</mark>
 
-[![sadegh barati](https://github.com/sadeghbarati/sadeghbarati/raw/master/assets/sadegh.svg#img-thumbnail)](https://sadeghbarati.ir)
+[![sadegh barati](https://github.com/sadeghbarati/sadeghbarati/raw/master/assets/sadegh.svg?v=1.123)](https://sadeghbarati.ir)
 
 ![Alt Text](https://c.tenor.com/Bw9HvOBaSywAAAAC/ricardo-milos.gif)
 
