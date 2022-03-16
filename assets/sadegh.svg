@@ -6,7 +6,7 @@
         
         @media (prefers-color-scheme: light) {
             #lul {
-                background-color: #fff
+                background-color: #fff;
             }
           #name {
              fill: #000 !important;
@@ -18,7 +18,7 @@
 
        @media (prefers-color-scheme: dark) {
          #lul {
-                background-color: #000
+                background-color: #000;
             }
           #name {
              fill: #fff !important;
