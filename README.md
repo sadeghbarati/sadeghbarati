@@ -3,7 +3,7 @@
 ### 🌱 my skills
 
 <a href="https://github.com/tandpfun/skill-icons#readme">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,js,html,css,vue,sass,tailwind,vite,git,github" />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,js,vue,sass,tailwind,vite,github" />
 </a>
 
 <br>
