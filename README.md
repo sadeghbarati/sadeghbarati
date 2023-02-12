@@ -2,9 +2,11 @@
 
 ### 🌱 my skills
 
-<a href="https://github.com/tandpfun/skill-icons#readme">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,js,vue,sass,tailwind,vite,github" />
-</a>
+<a href="https://github.com/microsoft/TypeScript"><img width="12" src="https://api.iconify.design/logos:typescript-icon.svg" /></a>
+<a href="https://vuejs.org/"><img src="https://api.iconify.design/logos:vue.svg" /></a>
+<a href="https://tailwindcss.com/"><img width="18" src="https://api.iconify.design/logos:tailwindcss-icon.svg" /></a>
+<a href="https://sass-lang.com/"><img src="https://api.iconify.design/logos:sass.svg" /></a>
+<a href="https://vitejs.dev/"><img src="https://api.iconify.design/logos:vitejs.svg" /></a>
 
 <br>
 
@@ -14,7 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeghbarati&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=sadeghbarati&color=brightgreen) -->
+<!-- <a href="https://github.com/tandpfun/skill-icons#readme">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,js,vue,sass,tailwind,vite,github" />
+</a> ![](https://komarev.com/ghpvc/?username=sadeghbarati&color=brightgreen) -->
 
 <!-- <span class="test readMe" id="test"></span> -->
 
